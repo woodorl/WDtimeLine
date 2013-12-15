@@ -1,0 +1,207 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"WD.Kim",
+        "type":"default",
+		"text":"Interaction Design I",
+		"startDate":"2013,8,26",
+        "asset":
+        {
+            "media":"./media/graph.jpg",
+            "credit":"<a href='https://docs.google.com/spreadsheet/ccc?key=0AgNA5QSGhdCgdG42NFNvamMwdU9KRkJhWTRTNnZBSkE&usp=drive_web#gid=4'>2013년의 2학기의 이력선</a>"
+        },
+        "date": [
+            {
+                "startDate":"2013,8,29",
+                "endDate":"2013,9,4",
+                "headline":"탐구생활 1차 -빵-",
+                "text":"<p>빵</p>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-oU9Sf2f68dc/UiZ5EOxiYxI/AAAAAAAAAIQ/J2YGOL7oxrw/w926-h874-no/%25EB%25B9%25B5.jpg",
+                    "credit":"asdasd",
+                    "caption":"sdasd"
+                }
+            },
+            {
+                "startDate":"2013,9,5",
+                "endDate":"2013,9,11",
+                "headline":"탐구생활 2차 -전봇대-",
+                "text":"<p>what we did</p>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-whieL2gjyns/Ui1RcBQDAAI/AAAAAAAAAMQ/bGmwvu8aCl4/w583-h874-no/IMG_0002.JPG",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,12",
+                "endDate":"2013,9,18",
+                "headline":"탐구생활 3차 -수도꼭지-",
+                "text":"<p>some graphs</p>",
+                "asset":
+                {
+                    "media":"https://lh6.googleusercontent.com/-kcrGN3Cn_8w/UjcVba64ROI/AAAAAAAAARI/16RqcSi-l0w/w800-h598-no/2013-09-16+23.23.29.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,19",
+                "endDate":"2013,9,25",
+                "headline":"탐구생활 4차 -단백질 보충제-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-sx6lTZbbvWc/UkGHCRk7FdI/AAAAAAAAATk/puYnIl6SDxI/w653-h874-no/2013-09-24+21.31.53.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,26",
+                "endDate":"2013,10,2",
+                "headline":"탐구생활 5차 -고양이 발-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"https://lh3.googleusercontent.com/-gEUCbdqbU78/Ukp_gf5-QJI/AAAAAAAAAYY/5e7GzPdR8gw/w1138-h874-no/foot.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,3",
+                "endDate":"2013,10,9",
+                "headline":"탐구생활 6차 -그루밍-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"https://lh6.googleusercontent.com/-CTUMnNxmXW4/UlUyVNTw6bI/AAAAAAAAAbw/dntxLgSbIR4/w653-h874-no/2013-10-08+15.01.18.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,10",
+                "endDate":"2013,10,16",
+                "headline":"탐구생활 7차 -계란찜-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"http://media.maangchi.com/wp-content/uploads/2011/09/inpot.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,17",
+                "endDate":"2013,10,23",
+                "headline":"탐구생활 8차 -피자-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-QwyJCBgdzys/UmTVZfMwjhI/AAAAAAAAAd4/wrLH1Lcsadw/w1170-h874-no/2013-10-20+19.56.51.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,24",
+                "endDate":"2013,10,30",
+                "headline":"탐구생활 9차 -지우개-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-oBY0-rT2Rb0/UnGJzNnrDuI/AAAAAAAAAn0/KYNfl2bWJJk/w1170-h874-no/2013-10-31+07.24.11.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,31",
+                "endDate":"2013,11,21",
+                "headline":"조형전",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"http://ianlynam.com/wp-content/uploads/2013/10/kmu.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,22",
+                "endDate":"2013,11,27",
+                "headline":"탐구생활 10차 -모닥불-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"https://lh6.googleusercontent.com/-SCuqzYss_8s/Uq0h93Awt3I/AAAAAAAABEM/F79eFrqfLhA/w932-h435-no/aaaa.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,11,28",
+                "endDate":"2013,12,4",
+                "headline":"탐구생활 11차 -사냥꾼-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-NhMYI1JNiuo/Uq0h94auKpI/AAAAAAAABEU/6ytzA7SRXWY/w917-h428-no/bbbbb.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,5",
+                "endDate":"2013,12,11",
+                "headline":"탐구생활 12차 -SVG-",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"https://lh5.googleusercontent.com/-kfYKjOMSE40/Uq0ikl71naI/AAAAAAAABE0/UIMTFtI7CMk/w796-h515-no/cccc.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,12",
+                "endDate":"2013,12,18",
+                "headline":"탐구생활 13차 -회고-",
+                "text":"<p>timelineJS를 활용한 회고</p>",
+                "asset":
+                {
+                    "media":"./media/huk.gif",
+                    "credit":"되돌아보기",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,19",
+                "endDate":"2013,12,20",
+                "headline":"종강",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"./media/final.gif",
+                    "credit":"이제 그만",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,21",
+                "headline":"END",
+                "text":"<p>감사합니다.</p>",
+                "asset":
+                {
+                    "media":"./media/end.gif",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
