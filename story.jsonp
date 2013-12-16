@@ -3,8 +3,8 @@ storyjs_jsonp_data = {
     {
         "headline":"WD.Kim",
         "type":"default",
-		"text":"Interaction Design I",
-		"startDate":"2013,8,26",
+        "text":"Interaction Design I",
+        "startDate":"2013,8,26",
         "asset":
         {
             "media":"./media/graph.jpg",
@@ -14,108 +14,108 @@ storyjs_jsonp_data = {
             {
                 "startDate":"2013,8,29",
                 "endDate":"2013,9,4",
-                "headline":"탐구생활 1차 -빵-",
-                "text":"<p>빵</p>",
+                "headline":"탐구생활 1차</br> 빵",
+                "text":"<p>&#9830;<a href='http://navercast.naver.com/contents.nhn?rid=117&contents_id=6079'> 빵의 기원</a></br>&#9830;<a href='http://ko.wikipedia.org/wiki/%EB%B0%9C%ED%9A%A8'> 발효의 원리</a></br>&#9830; <a href='http://ko.wikipedia.org/wiki/%EB%B6%80%ED%8C%A8'> 부패</a></p>",
                 "asset":
                 {
                     "media":"https://lh4.googleusercontent.com/-oU9Sf2f68dc/UiZ5EOxiYxI/AAAAAAAAAIQ/J2YGOL7oxrw/w926-h874-no/%25EB%25B9%25B5.jpg",
-                    "credit":"asdasd",
-                    "caption":"sdasd"
+                    "credit":"내가 찍은 바게트",
+                    "caption":""
                 }
             },
             {
                 "startDate":"2013,9,5",
                 "endDate":"2013,9,11",
-                "headline":"탐구생활 2차 -전봇대-",
-                "text":"<p>what we did</p>",
+                "headline":"탐구생활 2차</br> 전봇대",
+                "text":"<p>&#9830; <a href='http://krdic.naver.com/detail.nhn?docid=33021900'>전신주</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Distribution_transformer'>배전용 변압기</a>, <a href='http://en.wikipedia.org/wiki/Wire'>전선</a></br>&#9830; <a href='http://krdic.naver.com/detail.nhn?docid=32899300'>전기뱀장어</a></p>",
                 "asset":
                 {
                     "media":"https://lh5.googleusercontent.com/-whieL2gjyns/Ui1RcBQDAAI/AAAAAAAAAMQ/bGmwvu8aCl4/w583-h874-no/IMG_0002.JPG",
-                    "credit":"",
+                    "credit":"삼선동 전봇대",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,9,12",
                 "endDate":"2013,9,18",
-                "headline":"탐구생활 3차 -수도꼭지-",
-                "text":"<p>some graphs</p>",
+                "headline":"탐구생활 3차</br> 수도꼭지",
+                "text":"<p>&#9830; <a href='http://en.wikipedia.org/wiki/Faucet'>수도꼭지</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Thermostatic_mixing_valve'>기계 전자식 온도 조절 혼합 밸브</a>, <a href='http://en.wikipedia.org/wiki/Beer_tap'>맥주 꼭지</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Valve'>밸브</a></p>",
                 "asset":
                 {
                     "media":"https://lh6.googleusercontent.com/-kcrGN3Cn_8w/UjcVba64ROI/AAAAAAAAARI/16RqcSi-l0w/w800-h598-no/2013-09-16+23.23.29.jpg",
-                    "credit":"",
+                    "credit":"화장실 수도꼭지",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,9,19",
                 "endDate":"2013,9,25",
-                "headline":"탐구생활 4차 -단백질 보충제-",
-                "text":"<p>at last!</p>",
+                "headline":"탐구생활 4차</br> 단백질 보충제",
+                "text":"<p>&#9830; <a href='http://en.wikipedia.org/wiki/Protein'>단백질</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Bodybuilding_supplement#Protein'>단백질 보충제</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Bodybuilding_supplement#Protein'>대두 단백질</a>, <a href='http://en.wikipedia.org/wiki/Whey_protein'>유청 단백질</a></p>",
                 "asset":
                 {
                     "media":"https://lh4.googleusercontent.com/-sx6lTZbbvWc/UkGHCRk7FdI/AAAAAAAAATk/puYnIl6SDxI/w653-h874-no/2013-09-24+21.31.53.jpg",
-                    "credit":"",
+                    "credit":"초코맛 보충제",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,9,26",
                 "endDate":"2013,10,2",
-                "headline":"탐구생활 5차 -고양이 발-",
-                "text":"<p>at last!</p>",
+                "headline":"탐구생활 5차</br> 고양이 발",
+                "text":"<p>&#9830; <a href='http://en.wikipedia.org/wiki/Cat'>고양이</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Claw'>손톱</a></p>",
                 "asset":
                 {
                     "media":"https://lh3.googleusercontent.com/-gEUCbdqbU78/Ukp_gf5-QJI/AAAAAAAAAYY/5e7GzPdR8gw/w1138-h874-no/foot.jpg",
-                    "credit":"",
+                    "credit":"식빵이 발",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,10,3",
                 "endDate":"2013,10,9",
-                "headline":"탐구생활 6차 -그루밍-",
-                "text":"<p>at last!</p>",
+                "headline":"탐구생활 6차</br> 그루밍",
+                "text":"<p>&#9830; <a href='http://en.wikipedia.org/wiki/Hair'>털</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Tongue'>혀</a></br>&#9830; <a href='http://krdic.naver.com/detail.nhn?docid=2801700&offset=IDIOM10361#IDIOM10361'>고양이 세수</a></p>",
                 "asset":
                 {
                     "media":"https://lh6.googleusercontent.com/-CTUMnNxmXW4/UlUyVNTw6bI/AAAAAAAAAbw/dntxLgSbIR4/w653-h874-no/2013-10-08+15.01.18.jpg",
-                    "credit":"",
+                    "credit":"그루밍하는 식빵이",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,10,10",
                 "endDate":"2013,10,16",
-                "headline":"탐구생활 7차 -계란찜-",
-                "text":"<p>at last!</p>",
+                "headline":"탐구생활 7차</br> 계란찜",
+                "text":"<p>&#9830; <a href='http://en.wikipedia.org/wiki/Hair'>달걀</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Boiled_egg'>반숙, 완숙</a>, <a href='http://en.wikipedia.org/wiki/Fried_egg'>달걀부침</a>, <a href='http://en.wikipedia.org/wiki/Gyeran_jjim'>달걀찜</a>, <a href='http://en.wikipedia.org/wiki/Poached_egg'>수란</a></br>&#9830; <a href='http://terms.naver.com/entry.nhn?docId=295676&cid=359&categoryId=359'>오브알부민</a>, <a href='http://terms.naver.com/entry.nhn?docId=1150398&cid=200000000&categoryId=200003021'>콘알부민</a>, <a href='http://terms.naver.com/entry.nhn?docId=1069746&cid=200000000&categoryId=200003021'>글로불린</a></p>",
                 "asset":
                 {
                     "media":"http://media.maangchi.com/wp-content/uploads/2011/09/inpot.jpg",
-                    "credit":"",
+                    "credit":"맛있는 계란찜",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,10,17",
                 "endDate":"2013,10,23",
-                "headline":"탐구생활 8차 -피자-",
-                "text":"<p>at last!</p>",
+                "headline":"탐구생활 8차</br> 피자",
+                "text":"<p>&#9830; <a href='http://en.wikipedia.org/wiki/Pizza'>피자</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Italy'>이탈리아</a>, <a href='http://en.wikipedia.org/wiki/Naples'>나폴리</a></br>&#9830; <a href='http://en.wikipedia.org/wiki/Mozzarella'>모짜렐라</a>, <a href='http://terms.naver.com/entry.nhn?docId=731255&cid=294&categoryId=298'>프로볼로네</a>, <a href='http://terms.naver.com/entry.nhn?docId=731232&cid=294&categoryId=298'>리코타</a></p>",
                 "asset":
                 {
                     "media":"https://lh5.googleusercontent.com/-QwyJCBgdzys/UmTVZfMwjhI/AAAAAAAAAd4/wrLH1Lcsadw/w1170-h874-no/2013-10-20+19.56.51.jpg",
-                    "credit":"",
+                    "credit":"59쌀피자에 불새피자",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,10,24",
                 "endDate":"2013,10,30",
-                "headline":"탐구생활 9차 -지우개-",
-                "text":"<p>at last!</p>",
+                "headline":"탐구생활 9차</br> 지우개",
+                "text":"<p>&#9830; <a href='http://krdic.naver.com/detail.nhn?docid=35760200'>지우개</a>, <a href='http://terms.naver.com/entry.nhn?docId=1103882&cid=200000000&categoryId=200000917'>부석</a></br>&#9830; <a href='http://krdic.naver.com/detail.nhn?docid=2681600'>고무</a>, <a href='http://terms.naver.com/entry.nhn?docId=771832&cid=2694&categoryId=2699'>고무나무</a></br>&#9830; <a href='http://krdic.naver.com/detail.nhn?docid=42550700'>형태</a>, <a href='http://krdic.naver.com/detail.nhn?docid=42549500'>형체</a>, <a href='http://krdic.naver.com/detail.nhn?docid=14600300'>물체</a>, <a href='http://krdic.naver.com/detail.nhn?docid=13640600'>모양</a></br>&#9830; <a href='http://krdic.naver.com/detail.nhn?docid=29651901&directAnchor=s296509p498298'>유연</a>, <a href='http://krdic.naver.com/detail.nhn?docid=29640201'>유약</a></p>",
                 "asset":
                 {
                     "media":"https://lh4.googleusercontent.com/-oBY0-rT2Rb0/UnGJzNnrDuI/AAAAAAAAAn0/KYNfl2bWJJk/w1170-h874-no/2013-10-31+07.24.11.jpg",
-                    "credit":"",
+                    "credit":"잠자리 지우개",
                     "caption":""
                 }
             },
@@ -127,50 +127,50 @@ storyjs_jsonp_data = {
                 "asset":
                 {
                     "media":"http://ianlynam.com/wp-content/uploads/2013/10/kmu.jpg",
-                    "credit":"",
+                    "credit":"국민대 조형전",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,11,22",
                 "endDate":"2013,11,27",
-                "headline":"탐구생활 10차 -모닥불-",
+                "headline":"탐구생활 10차</br> 모닥불",
                 "text":"<p>at last!</p>",
                 "asset":
                 {
                     "media":"https://lh6.googleusercontent.com/-SCuqzYss_8s/Uq0h93Awt3I/AAAAAAAABEM/F79eFrqfLhA/w932-h435-no/aaaa.jpg",
-                    "credit":"",
+                    "credit":"3d Layer Test",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,11,28",
                 "endDate":"2013,12,4",
-                "headline":"탐구생활 11차 -사냥꾼-",
+                "headline":"탐구생활 11차</br> 사냥꾼",
                 "text":"<p>at last!</p>",
                 "asset":
                 {
                     "media":"https://lh4.googleusercontent.com/-NhMYI1JNiuo/Uq0h94auKpI/AAAAAAAABEU/6ytzA7SRXWY/w917-h428-no/bbbbb.jpg",
-                    "credit":"",
+                    "credit":"Bone Animation Test",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,12,5",
                 "endDate":"2013,12,11",
-                "headline":"탐구생활 12차 -SVG-",
+                "headline":"탐구생활 12차</br> SVG",
                 "text":"<p>at last!</p>",
                 "asset":
                 {
                     "media":"https://lh5.googleusercontent.com/-kfYKjOMSE40/Uq0ikl71naI/AAAAAAAABE0/UIMTFtI7CMk/w796-h515-no/cccc.jpg",
-                    "credit":"",
+                    "credit":"SVG Test",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,12,12",
                 "endDate":"2013,12,18",
-                "headline":"탐구생활 13차 -회고-",
+                "headline":"탐구생활 13차</br> 회고",
                 "text":"<p>timelineJS를 활용한 회고</p>",
                 "asset":
                 {
@@ -198,7 +198,7 @@ storyjs_jsonp_data = {
                 "asset":
                 {
                     "media":"./media/end.gif",
-                    "credit":"",
+                    "credit":"안녕요",
                     "caption":""
                 }
             }
