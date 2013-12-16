@@ -135,7 +135,7 @@ storyjs_jsonp_data = {
                 "startDate":"2013,11,22",
                 "endDate":"2013,11,27",
                 "headline":"탐구생활 10차</br> 모닥불",
-                "text":"<p>at last!</p>",
+                "text":"<p><a href='http://woodorl.github.io/campFire'>링크</a></p>",
                 "asset":
                 {
                     "media":"https://lh6.googleusercontent.com/-SCuqzYss_8s/Uq0h93Awt3I/AAAAAAAABEM/F79eFrqfLhA/w932-h435-no/aaaa.jpg",
@@ -147,7 +147,7 @@ storyjs_jsonp_data = {
                 "startDate":"2013,11,28",
                 "endDate":"2013,12,4",
                 "headline":"탐구생활 11차</br> 사냥꾼",
-                "text":"<p>at last!</p>",
+                "text":"<p><a href='http://woodorl.github.io/campFire'>링크</a></p>",
                 "asset":
                 {
                     "media":"https://lh4.googleusercontent.com/-NhMYI1JNiuo/Uq0h94auKpI/AAAAAAAABEU/6ytzA7SRXWY/w917-h428-no/bbbbb.jpg",
@@ -159,7 +159,7 @@ storyjs_jsonp_data = {
                 "startDate":"2013,12,5",
                 "endDate":"2013,12,11",
                 "headline":"탐구생활 12차</br> SVG",
-                "text":"<p>at last!</p>",
+                "text":"<p><a href='http://woodorl.github.io/clickSVG1/''>링크</a></p>",
                 "asset":
                 {
                     "media":"https://lh5.googleusercontent.com/-kfYKjOMSE40/Uq0ikl71naI/AAAAAAAABE0/UIMTFtI7CMk/w796-h515-no/cccc.jpg",
